@@ -1,4 +1,4 @@
-# LinkedIn-like Community Platform
+# Linked Community Platform
 
 A modern, professional social networking platform built with React, TypeScript, and Supabase. Features user authentication, profile management, and a public post feed with a clean, LinkedIn-inspired design.
 
@@ -113,9 +113,6 @@ npm run build
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Live Demo
 
